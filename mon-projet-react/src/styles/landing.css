@@ -1,5 +1,6 @@
 .landing {
-    background-color: rgb(218, 218, 218);
+    background-image: url(../images/bee-cropped.jpg);
+    background-size: cover;
     color: black;
-    height: 85%;
+    height: 100%;
 }
